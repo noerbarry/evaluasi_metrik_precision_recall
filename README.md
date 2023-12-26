@@ -10,9 +10,14 @@ Pastikan Anda telah menginstal library yang diperlukan dengan menjalankan perint
 
 ```bash
 pip install streamlit pandas scikit-learn openpyxl
+``` 
 
 ### Langkah 2: Menjalankan Aplikasi
 Jalankan aplikasi dengan perintah berikut:
 
 ```bash
 streamlit run nama_file.py
+``` 
+
+Semoga Bermanfaat
+https://trakteer.id/edukasi_ai/link
