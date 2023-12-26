@@ -1,4 +1,5 @@
-# Precision & Recall Calculator
+# Evaluasi Metrik Precision dan Recall
+
 
 Aplikasi sederhana untuk menghitung metrik precision dan recall berdasarkan data yang diunggah dalam format CSV atau Excel (XLSX/XLS). Aplikasi ini menggunakan Streamlit untuk membuat antarmuka web yang interaktif.
 
