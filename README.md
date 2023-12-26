@@ -18,6 +18,5 @@ Jalankan aplikasi dengan perintah berikut:
 ```bash
 streamlit run nama_file.py
 ``` 
-
 Semoga Bermanfaat
 https://trakteer.id/edukasi_ai/link
