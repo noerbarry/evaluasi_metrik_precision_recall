@@ -18,5 +18,8 @@ Jalankan aplikasi dengan perintah berikut:
 ```bash
 streamlit run nama_file.py
 ``` 
+### Demo Aplikasi
+https://evaluatemachinelearning.streamlit.app/
+
 Semoga Bermanfaat
 https://trakteer.id/edukasi_ai/link
